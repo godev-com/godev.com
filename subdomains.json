@@ -1,0 +1,5 @@
+{
+    "echo":  "echo.labstack.com",
+    "fiber": "gofiber.io",
+    "gin":   "gin-gonic.com"
+}
